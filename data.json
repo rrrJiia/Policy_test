@@ -1,0 +1,11 @@
+{
+    "user" : {
+        "role" : "user",
+        "department": "engineering"
+    },
+    "action": "read",
+    "resource":{
+        "type": "code"
+    }
+    
+}
